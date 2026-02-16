@@ -49,6 +49,9 @@ This project demonstrates key Object-Oriented Programming concepts:
 * Eclipse
 
 3. Run:
-```bash
-java MemoryGame.java
+```bash<img width="530" height="645" alt="Start" src="https://github.com/user-attachments/assets/390831b4-2885-4bba-a6ed-55d9451e0c41" />
+
+java MemoryGame.java<img width="472" height="629" alt="CardView" src="https://github.com/user-attachments/assets/014fdabb-f543-4e46-bc07-30f2f85b7fdc" />
+<img width="475" height="627" alt="GameFinished" src="https://github.com/user-attachments/assets/aecaa3a0-9f65-4a02-a196-6a4c73341d25" />
+
 ```
