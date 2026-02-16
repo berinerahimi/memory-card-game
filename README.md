@@ -40,13 +40,15 @@ This project demonstrates key Object-Oriented Programming concepts:
 ## How to Run
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/memory-game.git
+  ```bash
+  git clone https://github.com/berinerahimi/memory-card-game.git
+```
 
 2. Open the project in an IDE such as:
-  IntelliJ IDEA
-  Eclipse
+* IntelliJ IDEA
+* Eclipse
 
 3. Run:
 ```bash
-MemoryGame.java
+java MemoryGame.java
+```
